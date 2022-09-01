@@ -1,1 +1,3 @@
- script that prints the absolute path name of the current working directory
+diplay lay current d
+
+irectory contents
